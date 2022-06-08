@@ -1,0 +1,5 @@
+name: MetaWoodCutter
+author: Donaldismo
+version: 0.3
+api-version: 1.18
+main: ru.donaldismo.meta.woodcutter.WoodCutter
